@@ -1,14 +1,17 @@
 {
-  "name": "dudick-feed",
+  "type": "module",
+  "name": "dudick-xml-feed",
   "version": "1.0",
   "description": "Reconfiguring the Dudick product feed.",
   "author": "Theresa Vollmer",
+  "main": "index.js",
   "scripts": {
     "prebuild": "rm -rf dist",
     "sass": "parcel build ./scss/style.scss",
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
     "start": "npm run build && npm run dev",
+    "rss": "tsc && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
