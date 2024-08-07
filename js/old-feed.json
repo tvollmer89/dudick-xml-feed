@@ -1,4 +1,4 @@
-{
+data: [{
   "productname": "Sealer 985 (fka Carboseal 985)",
   "productcode": "F141",
   "productfamily": "Dudick",
@@ -44,7 +44,7 @@
       "@_resource-type": "OTHER"
     }, {
       "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/PDS%3A%7BPC%3AF141%3BMID%3A1%3BLID%3A1%7D/Sealer_985_fka_Carboseal_985_PDS.pdf",
-      "@_modification-time": "2024-06-17T18:19Z",
+      "@_modification-time": "2024-08-06T15:33Z",
       "@_resource-type": "PDS"
     }, {
       "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12673/VOC+Emissions+Certificate+-+Sealer+985_July+2024.pdf",
@@ -52,7 +52,7 @@
       "@_resource-type": "OTHER"
     }, {
       "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/6DE9A0FCC3DC8DCA8525823B00776ED9/F141B1NL_2_USANSI.pdf",
-      "@_modification-time": "2024-07-22T17:11Z",
+      "@_modification-time": "2024-08-06T15:33Z",
       "@_resource-type": "MSDS"
     }]
   },
@@ -1277,7 +1277,9 @@
   "productcode": "296D",
   "productfamily": "Dudick",
   "producttype": "",
-  "producttypes": "",
+  "producttypes": {
+    "producttype": ["Zincs (Inorganic)", "Insulative Products"]
+  },
   "brand": "Dudick",
   "prodapplications": {
     "application": "Resinous Flooring"
@@ -1756,10 +1758,8 @@
   "productname": "Steri-Flor T Groutcoat",
   "productcode": "191D",
   "productfamily": "Dudick",
-  "producttype": "Floor Coating - Epoxy",
-  "producttypes": {
-    "producttype": "Floor Coating - Epoxy"
-  },
+  "producttype": "",
+  "producttypes": "",
   "brand": "Dudick",
   "prodapplications": {
     "application": "Resinous Flooring"
@@ -1860,3 +1860,4 @@
   "@_code": "091D",
   "@_locale": "en_US",
   "@_server": "ccrm3"
+}]

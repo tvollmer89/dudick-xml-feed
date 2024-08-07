@@ -4,9 +4,6 @@ const feedUrl = "https://ccrm3.rpmsfa.com/CarbolineRpmConnectorWar/sitefeed1.act
 let xmlFile = "";
 let productList;
 
-
-
-
 let xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
@@ -39,7 +36,6 @@ const parseFeed = () => {
   
   // console.log(`json count: ${Object.keys(json.carbproductlist)}`)
   
-  console.log(`productlist count: ${productList.length}`)
   const dudickProducts = productList.filter((p) => p.brand == "Dudick");
   console.log(`data: ${JSON.stringify(dudickProducts)}`);
   console.log(`dudick product count: ${dudickProducts.length}`)
@@ -49,8 +45,18 @@ const parseFeed = () => {
     var textB = b.productname.toUpperCase();
     return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
   });
-  updateList(dudickProducts);
+  let products = updateList(dudickProducts);
 
+  // build new xml? 
+  const builder = new XMLBuilder({
+    arrayNodeName: "products",
+    oneListGroup:"true",
+    ignoreAttributes : false,
+    attributeNamePrefix : "@_",
+    format: true
+  });
+  const xmlOutput = builder.build(products);
+  console.log(`xml: ${xmlOutput}`)
 }
 
 // const builder = new XMLBuilder();
