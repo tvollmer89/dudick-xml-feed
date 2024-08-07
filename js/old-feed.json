@@ -1,0 +1,1862 @@
+{
+  "productname": "Sealer 985 (fka Carboseal 985)",
+  "productcode": "F141",
+  "productfamily": "Dudick",
+  "producttype": "Polyaspartics",
+  "producttypes": {
+    "producttype": "Polyaspartics"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": "",
+  "generictype": "High-solids polyaspartic floor coating",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "This high-solids, polyaspartic was developed with excellent chemical resistance, adhesion, and resistance to UV degradation for floor coating applications. it is very low VOC and virtually odor free.",
+  "productfeatures": {
+    "productfeature": ["Quick return to service (2-4 hours for foot traffic)", "Self-leveling", "Smooth, gloss finish", "Flexible with high impact resistance", "Excellent UV protection", "Excellent chemical and abrasion resistance", "Extended pot-life or working time", "95% volume solids, low VOC, low odor", "Suitable for use in USDA inspected facilities", "Available in custom colors", "Class A fire rating per ASTM E84"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://carboline.box.com/shared/static/5x6k9gfq4giaf538dr0e2of0hqx5lxcr.pdf",
+      "@_modification-time": "2024-04-09T17:28Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12626/Sealer+985+%28fka+Carboseal+985%29+Part+A+SDS+6-12-2024.pdf",
+      "@_modification-time": "2024-06-17T19:53Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12627/Sealer+985+%28fka+Carboseal+985%29+Part+B+SDS+6-12-2024.pdf",
+      "@_modification-time": "2024-06-17T19:55Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/PDS%3A%7BPC%3AF141%3BMID%3A1%3BLID%3A1%7D/Sealer_985_fka_Carboseal_985_PDS.pdf",
+      "@_modification-time": "2024-06-17T18:19Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12673/VOC+Emissions+Certificate+-+Sealer+985_July+2024.pdf",
+      "@_modification-time": "2024-07-22T17:11Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/6DE9A0FCC3DC8DCA8525823B00776ED9/F141B1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-22T17:11Z",
+      "@_resource-type": "MSDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Carboseal 985 Environmental Product Declaration (EPD)", "Sealer 985 (fka Carboseal 985) Part A SDS", "Sealer 985 (fka Carboseal 985) Part B SDS", "Sealer 985 (fka Carboseal 985) PDS", "Sealer 985 CDPH VOC Emissions Certificate", "Sealer 985 SDS Part B"]
+  },
+  "@_code": "F141",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Shock-Crete MD",
+  "productcode": "115D",
+  "productfamily": "Shock-Crete",
+  "producttype": "Urethane Cements",
+  "producttypes": {
+    "producttype": "Urethane Cements"
+  },
+  "brand": "Dudick",
+  "prodapplications": "",
+  "prodmarkets": "",
+  "generictype": "Cementitious urethane flooring mortar",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "An aggregate filled system that develops a cure strength approximately 2 times that of the concrete base to which it is applied. The monolithic\ntopping exhibits excellent physical and mechanical\nstrength and chemical resistance.",
+  "productfeatures": {
+    "productfeature": ["Contributes toward satisfying credit for low emitting material under LEED 4.1", "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance Certificates Available Upon Request", "Meets SCAQMD Rule 1113 for VOC content", "Thermal Shock Resistant", "Excellent Chemical Resistance", "Low Odor", "Fast Setting", "Low Temperature Cure", "FDA and USDA Compliant", "Resistant to Steam Cleaning", "Anti-Microbial Agents are available as an option", "Anti-Skid Version Available", "Coefficient of Thermal Expansion similar to concrete", "VOC Compliant"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/115D/PDS%3A%7BPC%3A115D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_MD_PDS.pdf",
+      "@_modification-time": "2024-05-08T14:56Z",
+      "@_resource-type": "PDS"
+    }
+  },
+  "linktitles": {
+    "linktitle": "Shock-Crete MD PDS"
+  },
+  "@_code": "115D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Flor GP",
+  "productcode": "116D",
+  "productfamily": "Steri-Flor",
+  "producttype": "Epoxy Amines",
+  "producttypes": {
+    "producttype": "Epoxy Amines"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Automotive", "Distributor", "Food & Beverage", "Multiple Markets", "Other"]
+  },
+  "generictype": "Self-leveling, 100% solids, general purpose epoxy floor coating",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Steri-Flor GP is a self-leveling epoxy applied to achieve a strongly bonded monolithic topping with moderate chemical resistance and good physical and mechanical properties.",
+  "productfeatures": {
+    "productfeature": ["Contributes toward satisfying credit for low emitting material under LEED 4.1", "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance certification available upon request.", "Meets SCAQMD Rule 1113 for VOC content", "Contains 15% post industrial recycled product", "Low VOCs", "Low installation odor", "Can be seeded for anti-skid surface", "Stain resistance with excellent cleanability", "Can be reinforced with fiberglass to increase crack bridging properties", "USDA compliant"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/116D/PDS%3A%7BPC%3A116D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_GP_PDS.pdf",
+      "@_modification-time": "2024-04-02T14:51Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/116D/12632/VOC+Emissions+Certificate+-+Steri-Flor+GP_May+2024.pdf",
+      "@_modification-time": "2024-06-26T14:45Z",
+      "@_resource-type": "OTHER"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Steri-Flor GP PDS", "Steri-Flor GP VOC Emissions Certificate"]
+  },
+  "@_code": "116D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Primer 27",
+  "productcode": "101D",
+  "productfamily": "Dudick",
+  "producttype": "Vinyl Esters",
+  "producttypes": {
+    "producttype": "Vinyl Esters"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Resinous Flooring", "Secondary Containment"]
+  },
+  "prodmarkets": {
+    "market": ["Water & Wastewater", "Secondary Containment", "Electronics", "Chemical Processing/Refining", "Petrochemical", "Flooring"]
+  },
+  "generictype": "Vinyl Ester Primer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A primer designed to provide improved adhesion when installing high performance linings over properly prepared concrete and steel. It lowers the chances of outgassing when used over concrete and can be used as a holding primer for abrasive blasted steel.",
+  "productfeatures": {
+    "productfeature": ["Can minimize outgassing on concrete", "Promotes higher adhesion values between the substrate and lining material", "Low viscosity promotes increased wet out of surface", "Long pot life", "Long recoat window (5 days @ 75°F/23°C)", "Primer for polyester and vinyl ester systems"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": "",
+  "linktitles": "",
+  "@_code": "101D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Primer 67",
+  "productcode": "102D",
+  "productfamily": "Dudick",
+  "producttype": "Epoxy Amines",
+  "producttypes": {
+    "producttype": "Epoxy Amines"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Electronics", "Distributor", "Food & Beverage", "Multiple Markets", "Other"]
+  },
+  "generictype": "Epoxy primer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A high solids epoxy primer for steel and concrete. It is used to increase adhesion and reduce the potential for outgassing on concrete substrates. It can also be used to prevent abrasive blasted steel from developing rust bloom prior to the application of a coating or lining system.",
+  "productfeatures": {
+    "productfeature": ["Tolerant to moisture vapor transmission (2 / 2)", "Meets most VOC Requirements", "Low Odor", "User Friendly"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://carboline.box.com/shared/static/vau2kbkuzbqy3w7zosc82jb4azs3tnrk.pdf",
+      "@_modification-time": "2024-04-09T17:36Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/102D/PDS%3A%7BPC%3A102D%3BMID%3A1%3BLID%3A1%7D/Primer_67_PDS.pdf",
+      "@_modification-time": "2024-04-03T14:50Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Primer 67 Environmental Product Declaration (EPD)", "Primer 67 PDS"]
+  },
+  "@_code": "102D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Coat P",
+  "productcode": "123D",
+  "productfamily": "Dudick",
+  "producttype": "",
+  "producttypes": "",
+  "brand": "Dudick",
+  "prodapplications": "",
+  "prodmarkets": "",
+  "generictype": "Multi-functional, UV stable epoxy coating for wall, ceiling & floor applications",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "This amine cured epoxy coating provides a very tough seamless coating system for high abuse areas. It is an excellent coating for areas requiring protection against the growth of mold, mildew, fungus and bacteria.\nThe unique hybrid binder in Steri-Coat P provides high film integrity, and good chemical resistance required for prolonged substrate protection.",
+  "productfeatures": {
+    "productfeature": ["Contributes toward satisfying credit for low emitting material under LEED 4.1", "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance Certificates Available Upon Request", "Meets SCAQMD Rule 1113 for VOC content", "Low emitting material", "Low installation odor", "Good Chemical & Abrasion Resistance", "USDA & FDA Compliant", "Anti-Microbial Agents are available as an option"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/123D/PDS%3A%7BPC%3A123D%3BMID%3A1%3BLID%3A1%7D/Steri-Coat_P_PDS.pdf",
+      "@_modification-time": "2023-04-11T12:24Z",
+      "@_resource-type": "PDS"
+    }
+  },
+  "linktitles": {
+    "linktitle": "Steri-Coat P PDS"
+  },
+  "@_code": "123D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Caulk 100XT",
+  "productcode": "169D",
+  "productfamily": "Dudick",
+  "producttype": "Epoxy Novolacs",
+  "producttypes": {
+    "producttype": "Epoxy Novolacs"
+  },
+  "brand": "Dudick",
+  "prodapplications": "",
+  "prodmarkets": "",
+  "generictype": "Fluoro-elastomer joint sealant",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Caulk 100XT is a highly flexible, two-component, 100% solids joint sealant with superior chemical resistance. It will withstand repeated expansion and contraction and remain resilient through daily and seasonal cyclic changes in temperature. Caulk 100XT is to be used as a specialty joint sealant designed for environments where resistance to spills of concentrated acids and most solvents is required.",
+  "productfeatures": {
+    "productfeature": ["Superior Chemical Resistance", "Outstanding elongation properties", "Excellent bond strength assures good adhesion", "Factory proportioned packaging ensures consistent high quality and simplified mixing", "Long Pot Life", "VOC Compliant in all U.S. states"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/169D/PDS%3A%7BPC%3A169D%3BMID%3A1%3BLID%3A1%7D/Caulk_100XT_PDS.pdf",
+      "@_modification-time": "2024-02-23T21:49Z",
+      "@_resource-type": "PDS"
+    }
+  },
+  "linktitles": {
+    "linktitle": "Caulk 100XT PDS"
+  },
+  "@_code": "169D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Cove Gel",
+  "productcode": "181D",
+  "productfamily": "Dudick",
+  "producttype": "",
+  "producttypes": "",
+  "brand": "Dudick",
+  "prodapplications": "",
+  "prodmarkets": "",
+  "generictype": "100% solids thixotropic epoxy coating",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Steri-Cove Gel is an epoxy system designed for installation as integral cove base @ 1/16” to 1/4” thick. For use with Dudick Steri-Flor, Steri-Quartz, Steri-Flake systems, and other systems as recommended by Dudick.",
+  "productfeatures": {
+    "productfeature": ["Contributes toward satisfying credit for low emitting material under LEED 4.1", "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance Certificates Available Upon Request", "Meets SCAQMD Rule 1113 for VOC content", "Low emitting material", "Low VOC’s", "Low installation odor"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/181D/PDS%3A%7BPC%3A181D%3BMID%3A1%3BLID%3A1%7D/Steri-Cove_Gel_PDS.pdf",
+      "@_modification-time": "2024-07-10T18:43Z",
+      "@_resource-type": "PDS"
+    }
+  },
+  "linktitles": {
+    "linktitle": "Steri-Cove Gel PDS"
+  },
+  "@_code": "181D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Polymer Steel MG",
+  "productcode": "178D",
+  "productfamily": "Polymer Steel",
+  "producttype": "Steel Repair",
+  "producttypes": {
+    "producttype": "Steel Repair"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Industrial", "High Abrasion / Impact Coatings"]
+  },
+  "prodmarkets": {
+    "market": ["Pulp & Paper", "Chemical Processing/Refining", "Metals & Mining", "Petrochemical", "OEM"]
+  },
+  "generictype": "100% solids aluminum oxide filled machinable resurfacer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A machine grade epoxy putty for repairing damaged shafts, valves, and other mated metal surfaces. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically.",
+  "productfeatures": {
+    "productfeature": ["Good overall chemical resistance", "Simple troweled application", "Machinable in 2-4 hours", "Zero VOC", "Excellent adhesion", "Excellent abrasion resistance", "Sandable"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/178D/12212/Polymer+Steel+Flyer+042022.pdf",
+      "@_modification-time": "2024-07-08T18:00Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/178D/PDS%3A%7BPC%3A178D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_MG_PDS.pdf",
+      "@_modification-time": "2024-04-02T19:26Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Polymer Steel Flyer", "Polymer Steel MG PDS"]
+  },
+  "@_code": "178D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "EA-1 Aggregate",
+  "productcode": "126D",
+  "productfamily": "Dudick",
+  "producttype": "Specialties",
+  "producttypes": {
+    "producttype": "Specialties"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Resinous Flooring", "Secondary Containment"]
+  },
+  "prodmarkets": {
+    "market": "Flooring"
+  },
+  "generictype": "",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "",
+  "productfeatures": "",
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/126D/12633/EA-1+Filler+GHS.pdf",
+      "@_modification-time": "2024-06-26T17:40Z",
+      "@_resource-type": "OTHER"
+    }
+  },
+  "linktitles": {
+    "linktitle": "EA-1 Filler"
+  },
+  "@_code": "126D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Primer 67LV",
+  "productcode": "184D",
+  "productfamily": "Dudick",
+  "producttype": "Floor Coating - Epoxy",
+  "producttypes": {
+    "producttype": "Floor Coating - Epoxy"
+  },
+  "brand": "Dudick",
+  "prodapplications": "",
+  "prodmarkets": "",
+  "generictype": "Low VOC Epoxy Primer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A low VOC epoxy primer for concrete and steel. It is used to increase adhesion and reduce the potential for outgassing on concrete substrates. It can also be used to prevent abrasive blasted steel from developing rust bloom prior to the application of a coating or lining system.",
+  "productfeatures": {
+    "productfeature": ["Tolerant to moisture vapor transmission (2 / 2)", "Low VOC", "Low Odor", "Meets SCAQMD Rule 1113 for VOC content", "VOC Compliant with LEED 4.1"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/184D/PDS%3A%7BPC%3A184D%3BMID%3A1%3BLID%3A1%7D/Primer_67LV_PDS.pdf",
+      "@_modification-time": "2024-04-03T15:04Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/184D/12629/VOC+Emissions+Certificate+-+Primer+67LV+CDPH_May+2024.pdf",
+      "@_modification-time": "2024-06-26T14:39Z",
+      "@_resource-type": "OTHER"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Primer 67LV PDS", "Primer 67LV VOC Emissions Certificate"]
+  },
+  "@_code": "184D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Shock-Crete HD",
+  "productcode": "207D",
+  "productfamily": "Shock-Crete",
+  "producttype": "Urethane Cements",
+  "producttypes": {
+    "producttype": "Urethane Cements"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Water & Wastewater", "Secondary Containment", "Pulp & Paper", "Chemical Processing/Refining", "Automotive", "Food & Beverage", "Multiple Markets", "Metals & Mining", "Other", "Power - Thermal Fuel"]
+  },
+  "generictype": "Cementitious urethane flooring mortar",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Liquid nitrogen resistant, trowel applied cementitious urethane mortar (1/4\"-3/8\" / 6-10 mm). Contains  antimicrobial additives that protect it from degradation caused by microorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.",
+  "productfeatures": {
+    "productfeature": ["Unaffected by MVT (moisture vapor transmission)", "Excellent chemical resistance", "High abrasion resistance", "Resistant to thermal shock", "Withstands mechanical stress", "Easy to clean and sterilize surface", "Resistant to steam cleaning", "Positive slip resistance", "May be applied to \"green\" concrete", "Ultra low VOC/odor", "Suitable for use in USDA inspected facilities", "Resistant to liquid nitrogen (Contact Dudick for recommendations when dealing with liquid nitrogen exposure)"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/207D/PDS%3A%7BPC%3A207D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_HD_PDS.pdf",
+      "@_modification-time": "2024-05-08T14:48Z",
+      "@_resource-type": "PDS"
+    }
+  },
+  "linktitles": {
+    "linktitle": "Shock-Crete HD PDS"
+  },
+  "@_code": "207D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Caulk PSC",
+  "productcode": "244D",
+  "productfamily": "Dudick",
+  "producttype": "Specialties",
+  "producttypes": {
+    "producttype": "Specialties"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Concrete Repair", "Industrial", "Secondary Containment"]
+  },
+  "prodmarkets": {
+    "market": ["Secondary Containment", "Oil & Gas Midstream", "Flooring"]
+  },
+  "generictype": "Elastomeric polysulfide caulk",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Caulk PSC is a two-component, 100% solids, chemically resistant sealant. It will withstand repeated expansion and contraction and remain resilient through daily and seasonal cyclic changes in temperature. Caulk PSC is to be used as a general purpose expansion joint sealant designed for splash and spill and secondary containment of moderate strength acids, alkalis and some solvents typically found in industrial chemical processing.",
+  "productfeatures": {
+    "productfeature": ["State of Florida: Secondary Containment Approval EQ-510", "Long term abrasion and chemical resistance", "Excellent bond strength assures good adhesion", "Factory proportioned packaging ensures consistent high quality and simplified mixing", "VOC Compliant in all U.S. states"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/244D/PDS%3A%7BPC%3A244D%3BMID%3A1%3BLID%3A1%7D/Caulk_PSC_PDS.pdf",
+      "@_modification-time": "2024-05-06T14:51Z",
+      "@_resource-type": "PDS"
+    }
+  },
+  "linktitles": {
+    "linktitle": "Caulk PSC PDS"
+  },
+  "@_code": "244D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Shock-Crete SL2",
+  "productcode": "F165",
+  "productfamily": "Shock-Crete",
+  "producttype": "Urethane Cements",
+  "producttypes": {
+    "producttype": "Urethane Cements"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Food & Beverage", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "Self-leveling cementitious urethane floor coating",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Self-leveling base layer for use in cementitious urethane flooring systems. Flake, colored quartz, or sand can be broadcast in to creat a more decorative flooring system. Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by\nmicroorganisms.  Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.",
+  "productfeatures": {
+    "productfeature": ["Resistant up to 12 lbs of moisture vapor transmission per 1000 sq ft/ 24hrs", "Excellent chemical resistance", "High abrasion resistance", "Resistant to thermal shock", "Withstands mechanical stress", "Easy to clean and sterilize surface", "Resistant to steam cleaning", "Positive slip resistance", "May be applied to \"green\" concrete", "Ultra low VOC/odor", "Suitable for use in USDA inspected facilities", "Can be use in decorative flake or quartz systems"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F165/616360E47925F2CA8525892F005D7EA5/F165C1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-31T21:42Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F165/PDS%3A%7BPC%3AF165%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_SL2_PDS.pdf",
+      "@_modification-time": "2024-05-14T20:57Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Shock-Crete SL2 Filler SDS Part C", "Shock-Crete SL2 PDS"]
+  },
+  "@_code": "F165",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Shock-Crete SR",
+  "productcode": "F167",
+  "productfamily": "Dudick",
+  "producttype": "Urethane Cements",
+  "producttypes": {
+    "producttype": "Urethane Cements"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Food & Beverage", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "Semi self-leveling cementitious urethane floor coating",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Easy to apply highly functional slurry-broadcast base layer for use in cementitious urethane flooring systems (3/16-1/4” / 5-6 mm). Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by\nmicroorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.",
+  "productfeatures": {
+    "productfeature": ["Unaffected by MVT (moisture vapor transmisson)", "Excellent chemical resistance", "High abrasion resistance", "Resistant to thermal shock", "Withstands higher mechanical stress", "Easy to clean and sterilize surface", "Resistant to steam cleaning", "Positive slip resistance", "May be applied to \"green\" concrete", "Ultra low VOC/odor", "Suitable for use in USDA inspected facilities"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F167/12672/VOC+Emissions+Certificate+-+Shock-Crete+SR_July+2024.pdf",
+      "@_modification-time": "2024-07-22T17:11Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F167/79828E80551B55E38525892F005D7FBD/F167C1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-22T17:11Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F167/PDS%3A%7BPC%3AF167%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_SR_PDS.pdf",
+      "@_modification-time": "2024-05-08T13:18Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Shock-Crete SR CDPH VOC Emissions Certificate", "Shock-Crete SR Filler SDS Part C", "Shock-Crete SR PDS"]
+  },
+  "@_code": "F167",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Shock-Crete HF",
+  "productcode": "F166",
+  "productfamily": "Shock-Crete",
+  "producttype": "Urethane Cements",
+  "producttypes": {
+    "producttype": "Urethane Cements"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Resinous Flooring", "Misc (grouts, fillers, caulks, tapes, sealers)"]
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Food & Beverage", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "Cementitious urethane flooring mortar",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Highly functional trowel applied cementitious urethane mortar (1/4\"-3/8\" / 6-10mm). Contains Polygiene® which has antimicrobial properties that\nprotect it from degradation caused by microorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.",
+  "productfeatures": {
+    "productfeature": ["Unaffected by MVT (moisture vapor transmission)", "Excellent chemical resistance", "High abrasion resistance", "Resistant to thermal shock", "Withstands mechanical stress", "Easy to clean and sterilize surface", "Resistant to steam cleaning", "Positive slip resistance", "May be applied to \"green\" concrete", "Ultra low VOC/odor", "Suitable for use in USDA inspected facilities"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F166/F6F2E3D8E66D52E08525892F005D7F38/F166C1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-31T21:42Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F166/PDS%3A%7BPC%3AF166%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_HF_PDS.pdf",
+      "@_modification-time": "2024-05-08T13:18Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Shock-Crete HF Filler SDS Part C", "Shock-Crete HF PDS"]
+  },
+  "@_code": "F166",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Shock-Crete IF",
+  "productcode": "F163",
+  "productfamily": "Shock-Crete",
+  "producttype": "Urethane Cements",
+  "producttypes": {
+    "producttype": "Urethane Cements"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Food & Beverage", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "Iron filled cementitious urethane mortar",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Exceptionally heavy duty, trowel applied cementitious urethane mortar (3/8\"-1/2\" / 10-13 mm). Contains Polygiene® which has antimicrobial properties that\nprotect it from degradation caused by microorganisms. Demonstrates excellent resistance to mechanical damage, heavy machinery, thermal shock, and chemical attack.",
+  "productfeatures": {
+    "productfeature": ["Iron filled for ultra durability", "Unaffected by MVT (moisture vapor transmission)", "High abrasion resistance", "Resistant to thermal shock", "Withstands high mechanical stress", "Capable of withstanding stress from heavy machinery", "Easy to clean and sterilize surface", "Resistant to steam cleaning", "Positive slip resistance", "May be applied to \"green\" concrete", "Ultra low VOC/odor", "Suitable for use in USDA facilities"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F163/38196F0BA8F2C6818525892F005D7E2D/F163C1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-31T21:42Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F163/PDS%3A%7BPC%3AF163%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_IF_PDS.pdf",
+      "@_modification-time": "2024-05-08T13:41Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Shcok-Crete IF Filler SDS Part C", "Shock-Crete IF PDS"]
+  },
+  "@_code": "F163",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Shock-Crete TCUV",
+  "productcode": "F162",
+  "productfamily": "Shock-Crete",
+  "producttype": "Urethane Cements",
+  "producttypes": {
+    "producttype": "Urethane Cements"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Food & Beverage", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "High performance cementitious urethane floor sealer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Shock-Crete TCUV is a high performance, UV stable, semi-gloss topcoat for cementitious urethane floor systems. Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by microorganisms.",
+  "productfeatures": {
+    "productfeature": ["UV stable", "Excellent chemical resistance", "High abrasion resistance", "Resistant to thermal shock", "Excellent resistance to MVT (moisture vapor transmission)", "Withstands mechanical stress", "Ultra low VOC", "Suitable for use in USDA inspected facilities."]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F162/E17E570CF1239FA78525892F005D7DB9/F162C1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-31T21:42Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F162/PDS%3A%7BPC%3AF162%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_TCUV_PDS.pdf",
+      "@_modification-time": "2024-06-06T13:41Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Shock-Crete TCUV Filler  SDS Part C", "Shock-Crete TCUV PDS"]
+  },
+  "@_code": "F162",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Shock-Crete Topcoat",
+  "productcode": "F161",
+  "productfamily": "Shock-Crete",
+  "producttype": "Urethane Cements",
+  "producttypes": {
+    "producttype": "Urethane Cements"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Food & Beverage", "OEM", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "High performance cementitious urethane floor sealer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Polyurethane coating used as a topcoat for cementitious urethane flooring systems.  Excellent primer for cementitious urethane systems due to outstanding resistance to moisture vapor transmission. Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by microorganisms.",
+  "productfeatures": {
+    "productfeature": ["Excellent chemical resistance", "High abrasion resistance", "Resistant to thermal shock", "Excellent resistance to MVT (moisture vapor transmission)", "Easy to clean and sterilize", "Resistant to steam cleaning", "Withstands high mechanical stress", "Ultra low VOC/odor", "Suitable for use in USDA inspected facilities"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F161/8A2F64D2D194AC7D8525892F005D7D3E/F161C1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-31T21:42Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F161/PDS%3A%7BPC%3AF161%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_Topcoat_PDS.pdf",
+      "@_modification-time": "2024-05-14T20:56Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Shock-Crete Topcoat Filler SDS Part C", "Shock-Crete Topcoat PDS"]
+  },
+  "@_code": "F161",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Flor UV",
+  "productcode": "F156",
+  "productfamily": "Dudick",
+  "producttype": "",
+  "producttypes": "",
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Automotive", "Distributor", "Food & Beverage", "Multiple Markets", "Other", "Pharmaceutical"]
+  },
+  "generictype": "100% solids, self-leveling epoxy floor coating",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Steri-Flor UV is a multi-functional epoxy floor coating with increased UV stability compared to conventional epoxies. \nIt provides good resistance to common chemicals and daily traffic and may be used as a base/color coat, receiving coat, or grout coat for decorative broadcast floors.",
+  "productfeatures": {
+    "productfeature": ["Contributes toward satisfying credit for low emitting material under LEED 4.1", "Meets SCAQMD Rule 1113 for VOC content", "Low viscosity - good wetting properties, approximately 500 cps mixed.", "Low VOCs", "Low installation odor, for use in occupied areas.", "Stain resistance with excellent cleanability", "USDA compliant"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://carboline.box.com/shared/static/jrswk4ptu82pa2qtj5pysssawkf2hjy2.pdf",
+      "@_modification-time": "2024-04-09T17:35Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12102/Steri-Flor+UV+A+SDS.pdf",
+      "@_modification-time": "2024-05-10T14:20Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12101/Steri-Flor+UV+B+SDS.pdf",
+      "@_modification-time": "2024-05-10T14:20Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/PDS%3A%7BPC%3AF156%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_UV_PDS.pdf",
+      "@_modification-time": "2024-04-02T13:38Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12143/Dudick+Steri-Flor+UV+Product+Flyer_12622.pdf",
+      "@_modification-time": "2024-05-10T14:20Z",
+      "@_resource-type": "OTHER"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Steri-Flor UV Environmental Product Declaration (EPD)", "Steri-Flor UV Part A SDS", "Steri-Flor UV Part B SDS", "Steri-Flor UV PDS", "Steri-Flor UV Product Flyer"]
+  },
+  "@_code": "F156",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Prime",
+  "productcode": "F168",
+  "productfamily": "Dudick",
+  "producttype": "Epoxy Amines",
+  "producttypes": {
+    "producttype": "Epoxy Amines"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Water & Wastewater", "Commercial & Architectural", "Secondary Containment", "Automotive", "Distributor", "Food & Beverage", "Multiple Markets", "Other"]
+  },
+  "generictype": "Epoxy primer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A high solids epoxy primer for concrete. Designed to increase adhesion and reduce the potential for outgassing in high performance flooring or containment systems.",
+  "productfeatures": {
+    "productfeature": ["Meets most VOC Requirements", "Low Odor", "User Friendly", "Tolerant to moisture vapor transmission (2)"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F168/12671/VOC+Emissions+Certificate+-+Steri-Prime_July+2024.pdf",
+      "@_modification-time": "2024-07-22T17:10Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://carboline.box.com/shared/static/lk9eqamvmpjmakh7w3764662y4ujsar2.pdf",
+      "@_modification-time": "2024-04-09T17:36Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F168/12111/Steri-Prime_PDS_Dudick.pdf",
+      "@_modification-time": "2023-04-12T19:40Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F168/PDS%3A%7BPC%3AF168%3BMID%3A1%3BLID%3A1%7D/Steri-Prime_PDS.pdf",
+      "@_modification-time": "2023-11-14T13:32Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F168/BAE4053DB92C83218525892F005D8032/F168A1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-22T17:10Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F168/C63F241CA191BB088525892F005D80A5/F168B1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-22T17:10Z",
+      "@_resource-type": "MSDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Steri-Prime CDPH VOC Emissions Certificate", "Steri-Prime Environmental Product Declaration (EPD)", "Steri-Prime PDS", "Steri-Prime PDS", "Steri-Prime SDS Part A", "Steri-Prime SDS Part B"]
+  },
+  "@_code": "F168",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Prime DTO",
+  "productcode": "F169",
+  "productfamily": "Dudick",
+  "producttype": "",
+  "producttypes": "",
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Secondary Containment", "Distributor", "Food & Beverage", "Multiple Markets", "Other"]
+  },
+  "generictype": "Epoxy primer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A high solids epoxy primer for concrete that has previously been exposed to oils, grease, or fats. Specially designed to increase adhesion and reduce the potential for outgassing in high performance flooring or containment systems.",
+  "productfeatures": {
+    "productfeature": ["Meets most VOC Requirements", "Distinct, But Low Odor", "User Friendly", "Increases adhesion to oil saturated concrete that has been surface cleaned.", "Tolerant to moisture vapor transmission (2 / 2)"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F169/12098/Steri-Prime_DTO_PDS_Dudick.pdf",
+      "@_modification-time": "2023-04-12T19:40Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F169/PDS%3A%7BPC%3AF169%3BMID%3A1%3BLID%3A1%7D/Steri-Prime_DTO_PDS.pdf",
+      "@_modification-time": "2023-04-11T12:30Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F169/D3B804417806CD298525892F005D811C/F169A1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-06-27T20:47Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F169/E2B10B1E495559B28525892F005D8196/F169B1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-06-27T20:47Z",
+      "@_resource-type": "MSDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Steri-Prime DTO PDS", "Steri-Prime DTO PDS", "Steri-Prime DTO SDS Part A", "Steri-Prime DTO SDS Part B"]
+  },
+  "@_code": "F169",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Shock-Crete Vertical",
+  "productcode": "F160",
+  "productfamily": "Shock-Crete",
+  "producttype": "Urethane Cements",
+  "producttypes": {
+    "producttype": "Urethane Cements"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Resinous Flooring", "Misc (grouts, fillers, caulks, tapes, sealers)"]
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Food & Beverage", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "Cementitious urethane cove base mortar",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Cementitious cove base mortar that provides a durable finish for use with Shock-Crete flooring systems. Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by\nmicroorganisms.  Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.",
+  "productfeatures": {
+    "productfeature": ["Excellent chemical resistance", "Withstands high mechanical stress", "High abrasion resistance", "Easy to clean and sterilize surface", "Resistant to thermal shock", "Resistant to steam cleaning", "Ultra low VOC/odor", "Suitable for use in USDA inspected facilities"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F160/872A9A3A7D9575D28525892F005D7CB4/F160C1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-31T21:44Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/F160/PDS%3A%7BPC%3AF160%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_Vertical_PDS.pdf",
+      "@_modification-time": "2024-07-11T20:44Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Shock-Crete Vertical Filler SDS Part C", "Shock-Crete Vertical PDS"]
+  },
+  "@_code": "F160",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Primer 67DTO",
+  "productcode": "209D",
+  "productfamily": "Dudick",
+  "producttype": "Epoxy Polyamides",
+  "producttypes": {
+    "producttype": "Epoxy Polyamides"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Electronics", "Distributor", "Food & Beverage", "Multiple Markets", "Other"]
+  },
+  "generictype": "Epoxy primer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A high solids epoxy primer for concrete and steel that has previously been exposed to oils, grease, or\nfats. Specially designed to increase adhesion and reduce the potential for outgassing in high\nperformance containment and linings systems",
+  "productfeatures": {
+    "productfeature": ["Meets most VOC Requirements", "Distinct, Low Odor", "User Friendly", "Tolerant to moisture vapor transmission (2 / 2)"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/209D/PDS%3A%7BPC%3A209D%3BMID%3A1%3BLID%3A1%7D/Primer_67DTO_PDS.pdf",
+      "@_modification-time": "2024-06-27T20:50Z",
+      "@_resource-type": "PDS"
+    }
+  },
+  "linktitles": {
+    "linktitle": "Primer 67DTO PDS"
+  },
+  "@_code": "209D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Polymer Quartz",
+  "productcode": "286D",
+  "productfamily": "Dudick",
+  "producttype": "Repair Mortars",
+  "producttypes": {
+    "producttype": "Repair Mortars"
+  },
+  "brand": "Dudick",
+  "prodapplications": "",
+  "prodmarkets": "",
+  "generictype": "concrete repair grout material",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Grout shall be epoxy based material supplied with an appropriate hardener and graded silica aggregate as manufactured by Dudick Inc. Installation shall be in accordance with the manufacturer's recommended practices.",
+  "productfeatures": "",
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/286D/PDS%3A%7BPC%3A286D%3BMID%3A1%3BLID%3A1%7D/Polymer_Quartz_PDS.pdf",
+      "@_modification-time": "2024-04-04T17:42Z",
+      "@_resource-type": "PDS"
+    }
+  },
+  "linktitles": {
+    "linktitle": "Polymer Quartz PDS"
+  },
+  "@_code": "286D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Prime WB",
+  "productcode": "340D",
+  "productfamily": "Dudick",
+  "producttype": "Water Based Products",
+  "producttypes": {
+    "producttype": "Water Based Products"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Concrete Repair", "Surface Tolerant Coatings", "Bonding Primers", "Resinous Flooring"]
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Pulp & Paper", "Distributor", "Food & Beverage", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "Water-Based Epoxy Emulsion Primer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A water based epoxy primer for concrete. Designed to increase adhesion and reduce the potential for outgassing in high performance flooring systems.",
+  "productfeatures": {
+    "productfeature": ["Extremely fast recoatability", "Meets even the most restrictive VOC Requirements", "Low/no Odor", "User Friendly", "Unlimited moisture vapor transmission when used within a water-based system", "Can be used if the substrate is saturated surface damp or \"SSD\"", "Suitable for use in USDA inspected facilities"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/340D/PDS%3A%7BPC%3A340D%3BMID%3A1%3BLID%3A1%7D/Steri-Prime_WB_PDS.pdf",
+      "@_modification-time": "2024-05-13T12:40Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/340D/0488AF8117573959852589E50057F821/340DA1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-05-13T12:40Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/340D/BCD66F6674AAEAEF852589E50058023C/340DB1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-05-13T12:40Z",
+      "@_resource-type": "MSDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Steri-Prime WB PDS", "Steri-Prime WB SDS Part A", "Steri-Prime WB SDS Part B"]
+  },
+  "@_code": "340D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Sealer 35",
+  "productcode": "296D",
+  "productfamily": "Dudick",
+  "producttype": "",
+  "producttypes": "",
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": "Flooring"
+  },
+  "generictype": "High solids, hard-wearing, aliphatic polyurethane sealer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A multi-component, aliphatic polyurethane coating. Sealer 35 offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of aliphatic urethane chemistry. Toughness, impact resistance, and stain resistance are inherent qualities of this topcoat.",
+  "productfeatures": {
+    "productfeature": ["High Solids", "Excellent Color Stability", "Good Stain Resistance", "VOC Compliant", "Low Odor", "High Wear Filler may be incorporated for increased abrasion resistance"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/296D/12575/Sealer+35+Part+A+SDS+1-30-2024.pdf",
+      "@_modification-time": "2024-05-10T20:34Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/296D/12576/Sealer+35+Part+B+SDS+1-31-2024.pdf",
+      "@_modification-time": "2024-05-10T20:34Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/296D/PDS%3A%7BPC%3A296D%3BMID%3A1%3BLID%3A1%7D/Sealer_35_PDS.pdf",
+      "@_modification-time": "2024-05-13T16:29Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Sealer 35 Part A SDS", "Sealer 35 Part B SDS", "Sealer 35 PDS"]
+  },
+  "@_code": "296D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Protecto-Coat 500",
+  "productcode": "339D",
+  "productfamily": "Dudick",
+  "producttype": "Polyureas & Hybrids (Elastomeric)",
+  "producttypes": {
+    "producttype": "Polyureas & Hybrids (Elastomeric)"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["High Abrasion / Impact Coatings", "Water / Seawater Immersion", "Secondary Containment", "Tank Linings"]
+  },
+  "prodmarkets": {
+    "market": ["Water & Wastewater", "Secondary Containment", "Food & Beverage", "Petrochemical", "Flooring"]
+  },
+  "generictype": "Solvent Free Aromatic Polyurethane Hybrid",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "Plural-component applied coating used as a lining in the technology manufacturing facilities to protect the substrate from traffic and moderate chemical exposure. Provides protection against microbiologically induced corrosion (MIC) and hydrogen sulfide corrosion found in wastewater treatment service.",
+  "productfeatures": {
+    "productfeature": ["Complies with Greenbook", "Passes ASTM G210 - Severe Wastewater Analysis Tests (SWAT)", "Cold temperature cure", "Fast cure and walk on time", "Excellent barrier properties, low permeability", "Single-coat application 20 to 125 mils", "Bridges normal shrinkage cracks in concrete", "Monolithic, protective film for protection of steel and concrete", "Outstanding abrasion, impact and tear resistance", "Commonly used for Waffle Decks, where it can be cut away when needed."]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/339D/76CEB8E2B322D59385258A7B00782C6B/339DA1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-08T17:42Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/339D/52B4B8483FB5177E85258A7B00783678/339DB1NL_2_USANSI.pdf",
+      "@_modification-time": "2024-07-08T17:42Z",
+      "@_resource-type": "MSDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/339D/PDS%3A%7BPC%3A339D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_500_PDS.pdf",
+      "@_modification-time": "2023-12-04T15:36Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12325/P+COAT+500+A+SDS.pdf",
+      "@_modification-time": "2024-07-08T17:39Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12326/P+Coat+500+B+SDS.pdf",
+      "@_modification-time": "2024-07-08T17:39Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12478/Protecto-Coat+500+Flyer_021324.pdf",
+      "@_modification-time": "2024-07-08T17:42Z",
+      "@_resource-type": "OTHER"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Protecto Coat 500  SDS Part A", "Protecto Coat 500 SDS Part B", "Protecto-Coat 500 PDS", "Protecto-Coat 500 SDS Part A", "Protecto-Coat 500 SDS Part B", "Waffle Slab Flyer"]
+  },
+  "@_code": "339D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Flor T Bodycoat",
+  "productcode": "190D",
+  "productfamily": "Steri-Flor",
+  "producttype": "Floor Coating - Epoxy",
+  "producttypes": {
+    "producttype": "Floor Coating - Epoxy"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Food & Beverage", "Multiple Markets", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "Trowel-Applied Epoxy Floor Mortar",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A heavy-duty epoxy mortar basecoat. The total system provides a strongly bonded monolithic floor with excellent physical and mechanical properties.",
+  "productfeatures": {
+    "productfeature": ["USDA compliant", "High compressive strength", "Low odor", "Integral cove base and curb (optional)", "Factory engineered aggregate blend for power and hand trowel applications", "Anti-microbial agents are available as an option", "Installed as supplied, is compliant with California SCAQMD Rule 1113 for VOC content", "Contributes toward satisfying credit MR 5 and EQ 4.2 under LEED"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/190D/12600/EA-1+Filler+SDS.pdf",
+      "@_modification-time": "2024-05-14T17:30Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/190D/PDS%3A%7BPC%3A190D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_T_Bodycoat_PDS.pdf",
+      "@_modification-time": "2024-05-14T20:07Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/190D/12598/Steri-Flor+T+Part+A+SDS.pdf",
+      "@_modification-time": "2024-05-14T17:30Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/190D/12599/Steri-Flor+T+Part+B+SDS.pdf",
+      "@_modification-time": "2024-05-14T17:29Z",
+      "@_resource-type": "OTHER"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["EA-1 Filler SDS", "Steri-Flor T Bodycoat PDS", "Steri-Flor T Part A SDS", "Steri-Flor T Part A SDS"]
+  },
+  "@_code": "190D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Seal HB",
+  "productcode": "206D",
+  "productfamily": "Dudick",
+  "producttype": "Floor Coating - Epoxy",
+  "producttypes": {
+    "producttype": "Floor Coating - Epoxy"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Concrete Coating Systems", "Wall Coatings"]
+  },
+  "prodmarkets": {
+    "market": ["Water & Wastewater", "Commercial & Architectural", "Pulp & Paper", "Food & Beverage", "Government/Military", "Pharmaceutical"]
+  },
+  "generictype": "100% solids multi-functional epoxy coating",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A high-solids, multi-functional epoxy coating for walls and ceilings. The unique hybrid binder provides high film integrity, and excellent chemical resistance required for prolonged substrate protection. It can be spray applied to a high film build in one or two coats to achieve a monolithic barrier for protecting substrates in aggressive environments.",
+  "productfeatures": {
+    "productfeature": ["Excellent chemical resistance", "Good abrasion resistance", "Can be applied at high film thicknesses to ceilings and walls", "USDA Compliant", "Anti-Microbial Agents are available as an option", "Low emitting material", "Low VOC", "Low installation odor"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/206D/12583/Steri-Seal-HB-A-GHS.pdf",
+      "@_modification-time": "2024-05-10T15:59Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/206D/12584/Steri-Seal-HB-B-GHS.pdf",
+      "@_modification-time": "2024-05-10T16:05Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/206D/PDS%3A%7BPC%3A206D%3BMID%3A1%3BLID%3A1%7D/Steri-Seal_HB_PDS.pdf",
+      "@_modification-time": "2024-05-10T15:55Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Steri-Seal HB Part A SDS", "Steri-Seal HB Part B SDS", "Steri-Seal HB PDS"]
+  },
+  "@_code": "206D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Polymer Steel RG",
+  "productcode": "179D",
+  "productfamily": "Dudick",
+  "producttype": "Steel Repair",
+  "producttypes": {
+    "producttype": "Steel Repair"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Industrial", "High Abrasion / Impact Coatings"]
+  },
+  "prodmarkets": {
+    "market": ["Pulp & Paper", "Chemical Processing/Refining", "Metals & Mining", "Petrochemical", "OEM"]
+  },
+  "generictype": "100% solids aluminum oxide filled rebuild grade resurfacer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A rebuild grade, multi-functional epoxy putty for restoring eroded or cavitated areas of metal to its original contour. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically.",
+  "productfeatures": {
+    "productfeature": ["Good overall chemical resistance", "Simple troweled application", "High build capabilities", "Zero VOC", "Excellent adhesion", "Excellent abrasion resistance", "Sandable"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/179D/12501/Polymer+Steel+Flyer+042022.pdf",
+      "@_modification-time": "2024-07-08T18:00Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/179D/PDS%3A%7BPC%3A179D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_RG_PDS.pdf",
+      "@_modification-time": "2024-04-04T17:36Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Polymer Steel Flyer", "Polymer Steel RG PDS"]
+  },
+  "@_code": "179D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Polymer Steel EG",
+  "productcode": "177D",
+  "productfamily": "Polymer Steel",
+  "producttype": "Steel Repair",
+  "producttypes": {
+    "producttype": "Steel Repair"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Industrial", "High Abrasion / Impact Coatings"]
+  },
+  "prodmarkets": {
+    "market": ["Pulp & Paper", "Chemical Processing/Refining", "Metals & Mining", "Petrochemical", "OEM"]
+  },
+  "generictype": "100% solids aluminum oxide filled emergency grade resurfacer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "An emergency grade, multi-functional epoxy putty for applications where downtime is minimal. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically.",
+  "productfeatures": {
+    "productfeature": ["Rapid cure for service (dry to touch in 1 hour)", "Convenient half kit packaging to reduce waste", "Good overall chemical resistance", "Simple troweled application", "High build capabilities", "Zero VOC", "Excellent adhesion", "Excellent abrasion resistance", "Sandable"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/177D/PDS%3A%7BPC%3A177D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_EG_PDS.pdf",
+      "@_modification-time": "2024-04-02T19:24Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/177D/12502/Polymer+Steel+Flyer+042022.pdf",
+      "@_modification-time": "2024-07-08T18:00Z",
+      "@_resource-type": "OTHER"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Polymer Steel EG PDS", "Polymer Steel Flyer"]
+  },
+  "@_code": "177D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Polymer Steel SG",
+  "productcode": "180D",
+  "productfamily": "Polymer Steel",
+  "producttype": "Steel Repair",
+  "producttypes": {
+    "producttype": "Steel Repair"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Industrial", "High Abrasion / Impact Coatings"]
+  },
+  "prodmarkets": {
+    "market": ["Pulp & Paper", "Chemical Processing/Refining", "Metals & Mining", "Petrochemical", "OEM"]
+  },
+  "generictype": "100% solids aluminum oxide filled surface grade resurfacer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A surface grade, fluid applied epoxy coating used to provide both corrosion and erosion protection for degraded steel substrates. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically.",
+  "productfeatures": {
+    "productfeature": ["Smooth, slick finish", "Corrosion and galvanic resistant", "Good overall chemical resistance", "High build capabilities", "Zero VOC", "Exceptional adhesion", "Excellent abrasion resistance"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/180D/12503/Polymer+Steel+Flyer+042022.pdf",
+      "@_modification-time": "2024-07-08T18:01Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/180D/PDS%3A%7BPC%3A180D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_SG_PDS.pdf",
+      "@_modification-time": "2024-04-04T17:37Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Polymer Steel Flyer", "Polymer Steel SG PDS"]
+  },
+  "@_code": "180D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Polymer Carbide",
+  "productcode": "288D",
+  "productfamily": "Dudick",
+  "producttype": "Steel Repair",
+  "producttypes": {
+    "producttype": "Steel Repair"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Industrial", "High Abrasion / Impact Coatings"]
+  },
+  "prodmarkets": {
+    "market": ["Pulp & Paper", "Chemical Processing/Refining", "Metals & Mining", "Petrochemical", "OEM"]
+  },
+  "generictype": "100% solids, ceramic carbide filled multifunctional epoxy putty",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A ceramic carbide epoxy putty designed to resistance against severe abrasion, impact and cavitation. It resists a wide variety of chemicals and reinforces wear-plates in material handling service.",
+  "productfeatures": {
+    "productfeature": ["Good overall chemical resistance", "Simple troweled application", "Zero VOC", "Excellent adhesion", "Superior abrasion resistance"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/288D/PDS%3A%7BPC%3A288D%3BMID%3A1%3BLID%3A1%7D/Polymer_Carbide_PDS.pdf",
+      "@_modification-time": "2024-04-04T17:39Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/288D/12504/Polymer+Steel+Flyer+042022.pdf",
+      "@_modification-time": "2024-07-08T18:08Z",
+      "@_resource-type": "OTHER"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Polymer Carbide PDS", "Polymer Steel Flyer"]
+  },
+  "@_code": "288D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Primer 67C",
+  "productcode": "250D",
+  "productfamily": "Dudick",
+  "producttype": "Epoxy Amines",
+  "producttypes": {
+    "producttype": "Epoxy Amines"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Electronics", "Distributor", "Food & Beverage", "Multiple Markets", "Other"]
+  },
+  "generictype": "Conductive Epoxy primer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A high solids conductive epoxy primer for concrete, used in place of traditional primers when the coating or lining system must be holiday tested. It is also used as part of conductive flooring systems, intended to dissipate stray electrical current by running excess current to ground. In both uses, it increases adhesion and reduces the potential for outgassing on concrete substrates.",
+  "productfeatures": {
+    "productfeature": ["Tolerant to moisture vapor transmission (2 / 2)", "Meets most VOC Requirements", "Low Odor", "User Friendly"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://carboline.box.com/shared/static/vau2kbkuzbqy3w7zosc82jb4azs3tnrk.pdf",
+      "@_modification-time": "2024-05-03T18:35Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/250D/PDS%3A%7BPC%3A250D%3BMID%3A1%3BLID%3A1%7D/Primer_67C_PDS.pdf",
+      "@_modification-time": "2024-05-07T11:54Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Primer 67 Environmental Product Declaration (EPD)", "Primer 67C PDS"]
+  },
+  "@_code": "250D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Steri-Flor T Groutcoat",
+  "productcode": "191D",
+  "productfamily": "Dudick",
+  "producttype": "Floor Coating - Epoxy",
+  "producttypes": {
+    "producttype": "Floor Coating - Epoxy"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": "Resinous Flooring"
+  },
+  "prodmarkets": {
+    "market": ["Commercial & Architectural", "Food & Beverage", "Multiple Markets", "Flooring", "Pharmaceutical"]
+  },
+  "generictype": "100% solids, self-leveling epoxy floor coating",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "An epoxy grout used to seal and fill small voids left from troweling the aggregate filled Steri-Flor T, a heavy-duty industrial troweled mortar.",
+  "productfeatures": {
+    "productfeature": ["USDA compliant", "Fast recoat time", "Low odor", "Anti-microbial agents are available as an option", "Installed as supplied, is compliant with California SCAQMD Rule 1113 for VOC content", "Contributes toward satisfying credit MR 5 and EQ 4.2 under LEED"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/191D/PDS%3A%7BPC%3A191D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_T_Groutcoat_PDS.pdf",
+      "@_modification-time": "2024-05-14T20:08Z",
+      "@_resource-type": "PDS"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/191D/12601/Steri-Flor+T+Part+A+SDS.pdf",
+      "@_modification-time": "2024-05-14T17:32Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/191D/12602/Steri-Flor+T+Part+B+SDS.pdf",
+      "@_modification-time": "2024-05-14T17:33Z",
+      "@_resource-type": "OTHER"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Steri-Flor T Groutcoat PDS", "Steri-Flor T Part A SDS", "Steri-Flor T Part B SDS"]
+  },
+  "@_code": "191D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
+}, {
+  "productname": "Primer 67 DPLV",
+  "productcode": "091D",
+  "productfamily": "Dudick",
+  "producttype": "Floor Coating - Epoxy",
+  "producttypes": {
+    "producttype": "Floor Coating - Epoxy"
+  },
+  "brand": "Dudick",
+  "prodapplications": {
+    "application": ["Concrete Coating Systems", "Damp Surface Coating", "Bonding Primers", "Secondary Containment", "Tank Linings"]
+  },
+  "prodmarkets": {
+    "market": ["Food & Beverage", "Flooring"]
+  },
+  "generictype": "Low VOC, Deep Penetrating, Epoxy Primer",
+  "productdesignation": "",
+  "productdesignationfooter": "",
+  "productdescription": "A low VOC, deep penetrating epoxy primer for dense concrete. It is used to increase adhesion and reduce the potential for outgassing on concrete substrates. Can be used to densify the surface of concrete.",
+  "productfeatures": {
+    "productfeature": ["Tolerant to moisture vapor transmission (2 / 2)", "Densifies concrete surface", "Low VOC", "Low Odor", "Meets SCAQMD Rule 1113 for VOC content", "VOC Compliant with LEED 4.1"]
+  },
+  "productfinish": "",
+  "productdfts": "",
+  "solidscontent": "",
+  "solidsmeasurement": "",
+  "solidsvalue": "",
+  "vocvalues": "",
+  "dtrs": "",
+  "ratio": "",
+  "potlife": "",
+  "potlifecomments": "",
+  "cureschedule": "",
+  "linklocations": {
+    "linklocation": [{
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/091D/12677/Primer-67DP-LV-A-GHS.pdf",
+      "@_modification-time": "2024-07-26T13:12Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/091D/12678/Primer-67DP-LV-B-GHS.pdf",
+      "@_modification-time": "2024-07-26T13:13Z",
+      "@_resource-type": "OTHER"
+    }, {
+      "#text": "https://msds.carboline.com/servlet/FeedFile/1/prod/091D/PDS%3A%7BPC%3A091D%3BMID%3A1%3BLID%3A1%7D/Primer_67_DPLV_PDS.pdf",
+      "@_modification-time": "2024-07-26T17:10Z",
+      "@_resource-type": "PDS"
+    }]
+  },
+  "linktitles": {
+    "linktitle": ["Primer 67 DPLV Part A SDS", "Primer 67 DPLV Part B SDS", "Primer 67 DPLV PDS"]
+  },
+  "@_code": "091D",
+  "@_locale": "en_US",
+  "@_server": "ccrm3"
